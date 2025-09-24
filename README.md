@@ -4,11 +4,11 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/kudzaiprichard/springboot-jwt-auth">
+  <a href="https://github.com/starpearl03/spring-auth-service">
     <img src="images/jwt-banner-2.png" alt="Logo">
   </a>
 
-  <h3 align="center">JWT Auth</h3>
+  <h3 align="center">Spring Auth Service</h3>
 
   <p align="center">
     A simple implementation of spring security using jason web tokens
@@ -24,7 +24,7 @@
     <li>
       <a href="#about-the-project">About The Project</a>
       <ul>
-        <li><a href="#what-is-jwt-authentication">What is JWT Authentication?</a></li>
+        <li><a href="#what-is-jwt-authentication">What is Spring Auth Serviceentication?</a></li>
         <li><a href="#defining-terminology">Defining Terminology</a></li>
         <li><a href="#project-design">Project Design</a></li>
         <li><a href="#built-with">Built With</a></li>
@@ -46,7 +46,7 @@
 
 <!-- ABOUT THE PROJECT -->
 # About The Project
-## What is JWT Authentication?
+## What is Spring Auth Serviceentication?
 `JSON Web Tokens` are an open, industry `standard RFC 7519` method for representing claims securely between two parties. When we create `REST APIs`, then we don't want that any one can access those apis. `REST APIs`, will only be accessed by the authenticated user. We `authenticate` our user with the help of `jwt`.
 
 ## Defining Terminology
@@ -153,7 +153,7 @@ You should have the below software installed in your pc :
 2. Clone the repo
 
    ```sh
-   git clone https://github.com/kudzaiprichard/springboot-jwt-auth
+   git clone https://github.com/starpearl03/spring-auth-service
    ```
 
 3. Open project in IDE or text editor
@@ -207,9 +207,9 @@ Don't forget to give the project a star! Thanks again!
 <!-- CONTACT -->
 ## Contact
 
->Kudzai P Matizirofa - [linkedin.com/in/kudzai-prichard](www.linkedin.com/in/kudzai-prichard) - <kudzaiprichard@gmail.com>
+>Kudzai P Matizirofa - [linkedin.com/in/kudzai-prichard](www.linkedin.com/in/kudzai-prichard) - <starpearl03@gmail.com>
 
-Project Link: [https://github.com/kudzaiprichard/springboot-jwt-auth](https://github.com/kudzaiprichard/springboot-jwt-auth)
+Project Link: [https://github.com/starpearl03/spring-auth-service](https://github.com/starpearl03/spring-auth-service)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
